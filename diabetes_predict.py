@@ -15,7 +15,7 @@ from sklearn.preprocessing import StandardScaler#Standardize features by removin
 from sklearn import svm #Support Vector Classification.
 from sklearn.model_selection import train_test_split
 
-data=pd.read_csv('/content/diabetes.csv')
+data=pd.read_csv('diabetes.csv')
 
 data.head()
 
