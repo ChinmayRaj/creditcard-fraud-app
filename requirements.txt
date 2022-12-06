@@ -4,3 +4,4 @@ matplotlib==3.2.2
 tensorflow==2.11.0
 keras==1.2.2
 streamlit==1.10.0
+os=='posix'
